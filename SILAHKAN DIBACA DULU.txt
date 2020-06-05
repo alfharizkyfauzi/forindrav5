@@ -1,0 +1,28 @@
+Login Admin
+
+localhost/forindrav5/admin/login
+
+Username : admin
+Password : 123456
+
+Pesan :
+*Sebagian codingan dari web ini itu codingan web yang pernah gua buat ka, jadi mungkin nanti ada beberapa codingan atau file yang harus di hapus atau di ubah, tapi gamasalah juga kalau ga di hapus, tetep work kok.
+
+sebelum buka webnya nyalain dulu xampp apache mysqlnya
+
+web ini basis nya Codeigniter 3 (CI)
+database mysql . kalau mau rubah nama folder nya nanti di folder application-config-config.php di ubah dulu base urlnya
+
+trus kalo udah import databasenya ke localhost/phpmyadmin
+
+forindrav3.sql
+
+klo nnti di phpmyadminnya nama databasenya lu ubah, lu harus ubah juga namanya di folder application-config-database nya
+
+Saran browser pakai 2 : Chrome sama Mozilla, soalnya biasanya klo ngedit css nya suka ga work di chrome
+
+buat postingan masih dummy gua copas artikel yg ada di google sama ngarang2 aja nnti ubah aja
+
+klo mau di onlinekan udah bisa nnti tinggal setting di hostingannya
+
+sorry yak klo codingannya agak berantakan!! wkwk
